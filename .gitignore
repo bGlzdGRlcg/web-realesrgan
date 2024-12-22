@@ -13,7 +13,10 @@ lib
 .vscode
 node_modules
 .DS_Store
-dist
+dist/assets
+dist/gh.png
+dist/favicon.ico
+dist/index.html
 dist-ssr
 coverage
 *.local
@@ -31,6 +34,3 @@ coverage
 *.sln
 *.sw?
 
-*.tsbuildinfo
-realesrgan
-realcugan
